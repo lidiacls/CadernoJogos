@@ -16,7 +16,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-## Que mais exemplos me podem dar?
+## Quais são os exemplos possiveis para?
 
 ### Viagens a um sitio...
 ### Encarnar uma personagem diferente...
