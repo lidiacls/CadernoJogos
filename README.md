@@ -19,9 +19,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## Quais são os exemplos possiveis para?
 
 - Viagens a um sitio...
-  - 
+  - GTA
 - Encarnar uma personagem diferente...
   - SIMS
 - Fazer algo inacessível na vida real...
-  - 
+  - Call of Duty
 
