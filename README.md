@@ -22,7 +22,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   - Sea Of Thieves
 - Encarnar uma personagem diferente...
   - SIMS
-  ![Nova_capa_de_The_Sims_4](https://user-images.githubusercontent.com/91478724/136228612-15a65108-1766-42ee-bc6a-2b4bb9b3fd0a.png)
+  
+  ![the_sims_4___icon_by_blagoicons_d83qmlp-fullview](https://user-images.githubusercontent.com/91478724/136228897-368f383d-1236-44d1-b0b3-ea8562280e39.png)
+
 
 - Fazer algo inacessível na vida real...
   - Call of Duty
