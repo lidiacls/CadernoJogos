@@ -32,4 +32,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 - Fazer algo inacessível na vida real...
   - Call of Duty
+  
+  ![XDnJWEqi](https://user-images.githubusercontent.com/91478724/136229528-8ce631cf-faed-47ac-9246-e1a822d3cb1b.png)
 
