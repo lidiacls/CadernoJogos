@@ -25,7 +25,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 - Encarnar uma personagem diferente...
-  - SIMS
+  - SIMS4
   
   ![the_sims_4___icon_by_blagoicons_d83qmlp-fullview](https://user-images.githubusercontent.com/91478724/136228897-368f383d-1236-44d1-b0b3-ea8562280e39.png)
 
