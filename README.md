@@ -20,6 +20,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 - Viagens a um sitio...
   - Sea Of Thieves
+  
+  ![256fx256f](https://user-images.githubusercontent.com/91478724/136229170-99f130a7-228d-4bf4-a12d-77d06eb5a4b6.png)
+
+
 - Encarnar uma personagem diferente...
   - SIMS
   
