@@ -22,7 +22,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - Viagens a um sitio...
   - Sea Of Thieves
   
-  ![256fx256f](https://user-images.githubusercontent.com/91478724/136229170-99f130a7-228d-4bf4-a12d-77d06eb5a4b6.png)
+  ![sea-of-thieves-video-games-microsoft-corporation-rare-png-favpng-ypMCqXkDVBQ0uXGBbwfMHqcyM](https://user-images.githubusercontent.com/91478724/136575105-0996bc7f-7dc4-4e4d-  8f32-1a89924c4825.jpg)
 
 
 - Encarnar uma personagem diferente...
