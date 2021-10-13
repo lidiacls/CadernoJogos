@@ -22,6 +22,9 @@ Este caderno digital terá conteudos sobre jogos, UNITY, entre outras curriosida
 - Fazer algo inacessível na vida real...
   - Call of Duty
 
+  ![XDnJWEqi](https://user-images.githubusercontent.com/91478724/136229528-8ce631cf-faed-47ac-9246-e1a822d3cb1b.png)
+  
+  
 ## Tutorial Karting
 
 Durante a aula de Desenvolvimento de Jogos no dia 11 de outubro foi-nos pedido que realizássemos o tutorial de um jogo, sendo este o Karting Microgame.
@@ -48,5 +51,5 @@ O facto de alterar a cor das rochas foi apenas para colocar um pouco mais de cor
   
 
 
-![XDnJWEqi](https://user-images.githubusercontent.com/91478724/136229528-8ce631cf-faed-47ac-9246-e1a822d3cb1b.png)
+
 
