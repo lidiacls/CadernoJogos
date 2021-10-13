@@ -5,18 +5,6 @@ You can use the [editor on GitHub](https://github.com/lidiacls/CadernoJogos/edit
 Este caderno digital terá conteudos sobre jogos, UNITY, entre outras curriosidades que estejam relacionados com os mesmos, estes conteundos esta relacionado diretamente com a cadeira de "Desenvolvimento de Jogos".
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lidiacls/CadernoJogos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
 ## Quais são os exemplos possiveis para?
 
 - Viagens a um sitio...
@@ -33,6 +21,32 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 - Fazer algo inacessível na vida real...
   - Call of Duty
+
+## Tutorial Karting
+
+Durante a aula de Desenvolvimento de Jogos no dia 11 de outubro foi-nos pedido que realizássemos o tutorial de um jogo, sendo este o Karting Microgame.
+Depois de termos realizado o tutorial foi proposto pelo professor da disciplina que explorássemos o jogo, e fizéssemos alterações do nosso agrado, uma das sugestões foi juntar as pistas, pois estas estavam separadas.
+As alterações que eu realizei foram as seguintes:
+  - Junção das pistas;
+  - Colocação de arcos de outras cores;
+  - Colocação de prédios;
+  - Colocação de 3 rampas;
+  - Colocação um obstáculo sendo estes pinos de bowling;
+  - Alteração das cores das rochas;
+  - Alteração da cor do karting;
+
+Para adicionar a rampa fui a **Assets -> Karting -> Prefabs -> Props**
+Estas alterações foram realizadas através de **Assets -> Art** dentro desta pasta para alterar a cor das rochas foi a Materials -> Props, para colocar os novos elementos como os prédios, os arcos e o pinos de bowling fui a **Art -> Models**.
+Para alterar a cor do karting foi em **Assets -> Karting -> Materials -> Kart_Classic** e de seguida selecionei a primeira opção e alterei a cor da mesma.
+O facto de alterar a cor das rochas foi apenas para colocar um pouco mais de cor ao jogo, para estas alterações fui a **Assets -> karting -> Art -> Materials -> Props**.
+
+![Screenshot_2](https://user-images.githubusercontent.com/91478724/137117391-3845868e-b300-458c-9940-bca68a7bf52d.jpg)
+
+
+![Screenshot_4](https://user-images.githubusercontent.com/91478724/137117428-5c1b547d-71b5-433e-8dc8-cb2e5ae4e781.jpg)
+
   
-  ![XDnJWEqi](https://user-images.githubusercontent.com/91478724/136229528-8ce631cf-faed-47ac-9246-e1a822d3cb1b.png)
+
+
+![XDnJWEqi](https://user-images.githubusercontent.com/91478724/136229528-8ce631cf-faed-47ac-9246-e1a822d3cb1b.png)
 
