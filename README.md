@@ -38,10 +38,10 @@ As alterações que eu realizei foram as seguintes:
   - Alteração das cores das rochas;
   - Alteração da cor do karting;
 
-Para adicionar a rampa fui a **Assets -> Karting -> Prefabs -> Props**
-Estas alterações foram realizadas através de **Assets -> Art** dentro desta pasta para alterar a cor das rochas foi a Materials -> Props, para colocar os novos elementos como os prédios, os arcos e o pinos de bowling fui a **Art -> Models**.
-Para alterar a cor do karting foi em **Assets -> Karting -> Materials -> Kart_Classic** e de seguida selecionei a primeira opção e alterei a cor da mesma.
-O facto de alterar a cor das rochas foi apenas para colocar um pouco mais de cor ao jogo, para estas alterações fui a **Assets -> karting -> Art -> Materials -> Props**.
+-Para adicionar a rampa fui a **Assets -> Karting -> Prefabs -> Props**
+-Estas alterações foram realizadas através de **Assets -> Art** dentro desta pasta para alterar a cor das rochas foi a Materials -> Props, para colocar os novos elementos como os prédios, os arcos e o pinos de bowling fui a **Art -> Models**.
+-Para alterar a cor do karting foi em **Assets -> Karting -> Materials -> Kart_Classic** e de seguida selecionei a primeira opção e alterei a cor da mesma.
+-O facto de alterar a cor das rochas foi apenas para colocar um pouco mais de cor ao jogo, para estas alterações fui a **Assets -> karting -> Art -> Materials -> Props**.
 
 ![Screenshot_2](https://user-images.githubusercontent.com/91478724/137117391-3845868e-b300-458c-9940-bca68a7bf52d.jpg)
 
