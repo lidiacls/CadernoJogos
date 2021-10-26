@@ -10,17 +10,29 @@ Este caderno digital terá conteudos sobre jogos, UNITY, entre outras curriosida
 - Viagens a um sitio...
   - Sea Of Thieves
   
+  É um jogo eletrônico de ação e aventura produzido pela **Rare** e publicado pela **Xbox Game Studios** foi lançado em 20 de março de 2018.
+  O jogo contem elementos de jogabilidade na primeira pessoa e utiliza conteúdo que é gerado pelos utilizadores, em que os jogadores tem a possibilidade de criar as suas próprias historias utilizando as ferramentas disponibilizadas pelo jogo. Num cenário de piratas,os jogadores podem jogar cooperativamente num ambiente multijogador num mundo aberto.
+  
+  Assim oferece a experiência pirata essencial, desde navegar e lutar até à exploração e pilhagem - tudo o que precisa para viver a vida pirata e tornar-se uma lenda por direito próprio.
+  
   ![icon](https://user-images.githubusercontent.com/91478724/136575655-3cc0952a-5cc7-43a3-be29-0a7b3b14bb49.png)
-
+  
+  
 
 - Encarnar uma personagem diferente...
-  - SIMS4
+  - Yhe SIMS 4
+  
+  É uma série de jogos eletrônicos de simulação de vida real que já vai no SIMS 4. O primeiro jogo da série, The Sims, foi lançado em 4 de fevereiro de 2000, os jogos desta série são, em grande parte, jogos sandbox, pois não possuem objetivos definidos (exceto alguns pacotes de expansão posteriores e versões de console que introduziram esse estilo de jogo como por exemplo os "SIMS Cães e Gatos"). 
+  
+  O jogador cria pessoas virtuais chamadas "Sims" e administra suas necessidades, humores e até os desejos. Os jogadores podem colocar seus Sims em casas pré-construídas ou construí-las do zero a ao seu gosto. Também é possível construir lotes comunitários, como praças, bares e restaurantes. Cada pacote de expansão aumenta as possibilidades do respectivo jogo.
   
   ![the_sims_4___icon_by_blagoicons_d83qmlp-fullview](https://user-images.githubusercontent.com/91478724/136228897-368f383d-1236-44d1-b0b3-ea8562280e39.png)
 
 
 - Fazer algo inacessível na vida real...
   - Call of Duty
+  
+   Este é uma série de jogos eletrônicos de guerra, ação e tiro na primeira pessoa publicado pela **Activision** e desenvolvida pela **Infinity Ward**, pela **Sledgehammer Game Studio e pela Treyarch**. O primeiro título da série começou no computador, mais tarde expandiu-se para outros dispositivos. Também foram lançados vários jogos spin-off. Os primeiros títulos da série se concentraram em jogos ambientados na Segunda Guerra Mundial, apresentando batalhas e acontecimentos históricos daquele período. Com o tempo, a série viu jogos ambientados na Guerra Fria, em tempos atuais, mundos futuristas até o espaço sideral.
 
   ![XDnJWEqi](https://user-images.githubusercontent.com/91478724/136229528-8ce631cf-faed-47ac-9246-e1a822d3cb1b.png)
   
