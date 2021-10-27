@@ -20,7 +20,7 @@ Este caderno digital terá conteudos sobre jogos, UNITY, entre outras curriosida
   
 
 - Encarnar uma personagem diferente...
-  - Yhe SIMS 4
+  - The SIMS 4
   
   É uma série de jogos eletrônicos de simulação de vida real que já vai no SIMS 4. O primeiro jogo da série, The Sims, foi lançado em 4 de fevereiro de 2000, os jogos desta série são, em grande parte, jogos sandbox, pois não possuem objetivos definidos (exceto alguns pacotes de expansão posteriores e versões de console que introduziram esse estilo de jogo como por exemplo os "SIMS Cães e Gatos"). 
   
