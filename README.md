@@ -37,7 +37,7 @@ Este caderno digital terá conteudos sobre jogos, UNITY, entre outras curriosida
   ![XDnJWEqi](https://user-images.githubusercontent.com/91478724/136229528-8ce631cf-faed-47ac-9246-e1a822d3cb1b.png)
   
   
-## Tutorial Karting
+## Tutorial do jogo Karting
 
 Durante a aula de Desenvolvimento de Jogos no dia 11 de outubro foi-nos pedido que realizássemos o tutorial de um jogo, sendo este o Karting Microgame.
 Depois de termos realizado o tutorial foi proposto pelo professor da disciplina que explorássemos o jogo, e fizéssemos alterações do nosso agrado, uma das sugestões foi juntar as pistas, pois estas estavam separadas.
@@ -64,7 +64,7 @@ As alterações que eu realizei foram as seguintes:
 ![Screenshot_4](https://user-images.githubusercontent.com/91478724/137117428-5c1b547d-71b5-433e-8dc8-cb2e5ae4e781.jpg)
 
 
-## Tutorial Karting
+## Tutorial do jogo Plataformer Microgame
   
 Ao decorrer da aula dos dias 18 e 25 de outubro, foi proposto que realizássemos o tutorial de um jogo, sendo este o Plataformer Microgame.
 Apos termos realizado o tutorial conformo proposto pelo professor da disciplina, foi também pedido que explorássemos o jogo, e realizassemos alterações ao nosso gosto, ao contrario do Karting Microgame que existiu uma proposta por parte do professor desta vez não houve nenhuma proposta mas sim apenas que alterassemos o jogo o maximos que pudessemos, apesar de que este não tinha grandes permições de alterações do nivel, sendo que assim as alterações que seriam realizadas seriam mais a nmivel estetico do jogo. 
