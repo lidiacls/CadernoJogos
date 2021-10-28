@@ -81,7 +81,7 @@ As alterações que eu realizei foram as seguintes:
   
 ->>Para adicionar as arvores **Assets -> Mod Assets -> 2D Props -> Nature**.
   
-->>A alteração da cor do inimigo foi feita selecionando o mesmo e 
+->>A alteração da cor do inimigo foi feita selecionando o mesmo e **Sprite Renderer -> Color** e ai escolher a cor pretendida sendo esta **#FF20F3** porem como a textura não estava que o inimigo que existia anteriormente não era a que eu pretendia fui a **Favorites -> All Materials** e selecionei o **SpritesHue** e arastei o mesmo para **Sprite Renderer -> Material** isto com o inimigo sempre selecionado;
 
 ->>Os doces pelo mapa foram colocados da seguinte forma **Assets -> Mod Assets -> 2D Props -> Food** adocionando assim os *Lolipops* e os *Donuts*.
    
@@ -89,9 +89,13 @@ As alterações que eu realizei foram as seguintes:
    
 ->>As setas de impulsão na vertical foram adicionadas no mapa da seguinte maneira **Assets -> Mod Assets -> Powerup Prefabs** escolhem assim a **Bouncepad**, porem não tem a funcionalidade pretendida será um assunto a abordar com o professor.
   
-![Screenshot_2](https://user-images.githubusercontent.com/91478724/139058023-2bb85599-697a-498f-a1dd-37fb3c2baa0e.jpg)
+![Screenshot_6](https://user-images.githubusercontent.com/91478724/139239233-8af8a446-6d3a-4d53-8bc2-f2928d916227.jpg)
 
 
+![Screenshot_4](https://user-images.githubusercontent.com/91478724/139239279-3abfebd9-3037-4602-86dd-c1ddf46bfff7.jpg)
+
+
+![Screenshot_5](https://user-images.githubusercontent.com/91478724/139239300-ef346058-ac5a-429a-ab32-705d5e0eeba8.jpg)
 
 
 
