@@ -98,5 +98,30 @@ As alterações que eu realizei foram as seguintes:
 ![Screenshot_5](https://user-images.githubusercontent.com/91478724/139239300-ef346058-ac5a-429a-ab32-705d5e0eeba8.jpg)
 
 
+## Primeiro trabalho modificação de um jogo a escolha 
 
+Foi pedido aos alunos que realizassemmodificações de um dos jogos abordados nas aulas, sendo estes:
+  - Plataformer Microgame;
+  - Karting;
+  - PFV;
+Sendo o que escolhi foi o jogo de Karting Microgame, o objetivo é realizar alterações da pista tanto a nível visual como ao nível de dificuldade, ou seja, aumentando a dificuldade ao longo do percurso, esta dificuldade pode ser feita através da pista ou através de obstáculos que estarão na pista.
+No meu caso o tema é em cima do mar rodeado de ilhas, e a dificuldade do jogo aumenta através de obstáculos colocados ao longo do percurso.
+De seguida encontramos o jogo como estava anteriormente aposto ter realizado as modificações nomeadas num dos pontos mencionados anteriormente neste caderno digital, sendo este
+**Tutorial do jogo Karting**.
+
+![Screenshot_2](https://user-images.githubusercontent.com/91478724/143302501-1f889d92-5653-4c04-9bda-4e6039ed3fd3.jpg)
+
+As alterações que realizei foram as seguintes:
+  - Alteração do tema sendo este agora o tema de uma pista sobre o mar cheia de ilhas a volta;
+  - Aumento da pista;
+  - Criação de subidas e descidas;
+  - Colocação de rampas;
+  - Coloação de obstaculos sendo estes pranchas de surf como se fossem paredes;
+  - Alteração da cor do karting e do bonecono;
+  - Colocação de um chapeu no boneco;
+  - Colocação de ilhas no meio do mar jujnto a pista.
+  
+![1](https://user-images.githubusercontent.com/91478724/143304053-818d3b45-6d24-42bd-80d9-71f3acd32483.jpg)
+
+![2](https://user-images.githubusercontent.com/91478724/143304073-15e576d2-46a1-401a-8dab-9f5826eebb2b.jpg)
 
