@@ -46,9 +46,9 @@ As alterações que eu realizei foram as seguintes:
   - Colocação de arcos de outras cores;
   - Colocação de prédios;
   - Colocação de 3 rampas;
-  - Colocação um obstáculo sendo estes pinos de *bowling*;
+  - Colocação um obstáculo sendo estes pinos de **_bowling_**;
   - Alteração das cores das rochas;
-  - Alteração da cor do *karting*;
+  - Alteração da cor do **_karting_**;
 
 ->> Para adicionar a rampa fui a **Assets -> Karting -> Prefabs -> Props**.
 
@@ -83,7 +83,7 @@ As alterações que eu realizei foram as seguintes:
   
 ->>A alteração da cor do inimigo foi feita selecionando o mesmo e **Sprite Renderer -> Color** e ai escolher a cor pretendida sendo esta **#FF20F3** porem como a textura não estava que o inimigo que existia anteriormente não era a que eu pretendia fui a **Favorites -> All Materials** e selecionei o **SpritesHue** e arastei o mesmo para **Sprite Renderer -> Material** isto com o inimigo sempre selecionado;
 
-->>Os doces pelo mapa foram colocados da seguinte forma **Assets -> Mod Assets -> 2D Props -> Food** adocionando assim os *Lolipops* e os *Donuts*.
+->>Os doces pelo mapa foram colocados da seguinte forma **Assets -> Mod Assets -> 2D Props -> Food** adocionando assim os ***Lolipops*** e os *Donuts*.
    
 ->>Para colocar a "cauda" de rasto ao *player* é ir **Assets -> Mod Assets -> Trail Prefabs** sendo a escolhida **LongTrail** e este é arastado para dentro do **Player**.
    
@@ -113,13 +113,16 @@ De seguida encontramos o jogo como estava anteriormente aposto ter realizado as 
 
 As alterações que realizei foram as seguintes:
   - Alteração do tema sendo este agora o tema de uma pista sobre o mar cheia de ilhas a volta;
+  (Para este ponto apenas pensei num tema que fosse do meu agrado e procurei na loja **Assets** que fossem adequados ao meu tema, escolhendo o **Super Beach Pack** este contem:ilhas, palmeiras, boias, espreguiçadeira, baldes, prachas de surf)
   - Aumento da pista;
+  (Ao aumentar a pista apenas aumentei com os tipos de pistas já existentes no jogo )
   - Criação de subidas e descidas;
   - Colocação de rampas;
   - Coloação de obstaculos sendo estes pranchas de surf como se fossem paredes;
   - Alteração da cor do karting e do bonecono;
   - Colocação de um chapeu no boneco;
   - Colocação de ilhas no meio do mar junto a pista.
+  
   
 ![1](https://user-images.githubusercontent.com/91478724/143304053-818d3b45-6d24-42bd-80d9-71f3acd32483.jpg)
 
