@@ -127,6 +127,7 @@ As alterações que realizei foram as seguintes:
   - Colocação de um chapeu no boneco;
   (Para colocar o chapeu no boneco fui a **Assets -> Mod Assets -> Kart -> Hat Prefabs** e alterei a cor do mesmo nas suas propriedades sendo que a cor escolhida foi a seguinte: **00A6A6**.)
   - Colocação de ilhas no meio do mar junto a pista.<br />
+
   (Para colocar ilhas no meio do mar que este é o **GroundPlane** que alterei a cor do mesmo para **32F5D3**, fui a **Assets -> Snowconesolid Assets -> Super Beach Pack -> Premade Island PREFABS** e fui arrastando uma ilha de cada vez e alterando o tamanho dependendo do local que queria que esta estivesse.)
   
   
