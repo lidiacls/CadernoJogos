@@ -126,7 +126,7 @@ As alterações que realizei foram as seguintes:
   (Para alterar a cor do karting foi em **Assets -> Karting -> Materials -> Kart_Classic** e colocquei a seguinte cor **00B4D8** as rodas coloquei em preto para dar um destaque ao mesmo, o boneco coloquei a branco porem a um branco meio metalizado a alteração da cor do boneco fpi realizada nas suas propriedades.)
   - Colocação de um chapeu no boneco;
   (Para colocar o chapeu no boneco fui a **Assets -> Mod Assets -> Kart -> Hat Prefabs** e alterei a cor do mesmo nas suas propriedades sendo que a cor escolhida foi a seguinte: **00A6A6**.)
-  - Colocação de ilhas no meio do mar junto a pista.
+  - Colocação de ilhas no meio do mar junto a pista.<br />
   (Para colocar ilhas no meio do mar que este é o **GroundPlane** que alterei a cor do mesmo para **32F5D3**, fui a **Assets -> Snowconesolid Assets -> Super Beach Pack -> Premade Island PREFABS** e fui arrastando uma ilha de cada vez e alterando o tamanho dependendo do local que queria que esta estivesse.)
   
   
