@@ -113,24 +113,33 @@ De seguida encontramos o jogo como estava anteriormente aposto ter realizado as 
 
 As alterações que realizei foram as seguintes:
   - Alteração do tema sendo este agora o tema de uma pista sobre o mar cheia de ilhas a volta;
-  (Para este ponto apenas pensei num tema que fosse do meu agrado e procurei na loja **Assets** que fossem adequados ao meu tema, escolhendo o **Super Beach Pack** este contem:ilhas, palmeiras, boias, espreguiçadeira, baldes, prachas de surf)
+  (Para este ponto apenas pensei num tema que fosse do meu agrado e procurei na loja **Assets** que fossem adequados ao meu tema, escolhendo o **Super Beach Pack** este contem:ilhas, palmeiras, boias, espreguiçadeira, baldes, prachas de surf.)
   - Aumento da pista;
-  (Ao aumentar a pista apenas aumentei com os tipos de pistas já existentes no jogo )
+  (Ao aumentar a pista apenas aumentei com os tipos de pistas já existentes no jogo **Assets -> Karting -> ModularTarckit -> Prefabs**.)
   - Criação de subidas e descidas;
+  (Esta criação foi realizada com as pistas existentes no jogo.)
   - Colocação de rampas;
+  (Para colocar rampa fui a **Assets -> Karting -> Prefabs -> Props** e nas suas propriedades alterei a cor da mesma.)
   - Coloação de obstaculos sendo estes pranchas de surf como se fossem paredes;
+  (Para colocar este sobstaculos procurei no **Asset** que importei da loja e fui a: **Assets -> Snowconesolid Assets -> Super Beach Pack -> Super Beach PREFABS -> Surfboards -> Mobile_Surfboards**.)
   - Alteração da cor do karting e do bonecono;
+  (Para alterar a cor do karting foi em **Assets -> Karting -> Materials -> Kart_Classic** e colocquei a seguinte cor **00B4D8** as rodas coloquei em preto para dar um destaque ao mesmo, o boneco coloquei a branco porem a um branco meio metalizado a alteração da cor do boneco fpi realizada nas suas propriedades.)
   - Colocação de um chapeu no boneco;
+  (Para colocar o chapeu no boneco fui a **Assets -> Mod Assets -> Kart -> Hat Prefabs** e alterei a cor do mesmo nas suas propriedades sendo que a cor escolhida foi a seguinte: **00A6A6**.)
   - Colocação de ilhas no meio do mar junto a pista.
+  (Para colocar ilhas no meio do mar que este é o **GroundPlane** que alterei a cor do mesmo para **32F5D3**, fui a **Assets -> Snowconesolid Assets -> Super Beach Pack -> Premade Island PREFABS** e fui arrastando uma ilha de cada vez e alterando o tamanho dependendo do local que queria que esta estivesse.)
   
   
 ![1](https://user-images.githubusercontent.com/91478724/143304053-818d3b45-6d24-42bd-80d9-71f3acd32483.jpg)
 
 ![2](https://user-images.githubusercontent.com/91478724/143304073-15e576d2-46a1-401a-8dab-9f5826eebb2b.jpg)
 
-De seguida realizei algumas pequenas alterações para tentar dar mais cor ao jogo visto que é um jogo de praia, para isso alterei o skybox e luminosidade do sol, a este também subi para dar assim uma luz diferente ao jogo devido ao tema do mesmo.
+De seguida realizei algumas pequenas alterações para tentar dar mais cor ao jogo visto que é um jogo de praia, para isso alterei o *_skybox_* e luminosidade do sol, a este também subi para dar assim uma luz diferente ao jogo devido ao tema do mesmo.
 No jogo também foram colocadas setas de impulsão **SpeedPad** estas foram colocadas ao longo do percurso tanto em lugares menos propícios isto para dificultar a condução do condutor,pois, por exemplo um dos lugares menos propícios é o que veremos na seguinte imagem, pois temos as setas e logo enfrente as barreiras formadas pelas pranchas de surf, porem as **SpeedPad** também foram colocadas em lugares propícios.
+Para colocar estas setas impulsão foram adicionadas da seguinte maneira **Assets -> Mod Assets -> Kart -> SpeedPad.prefabs**.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/91478724/144047983-eae9da04-d8a3-47eb-a445-350ffc8d1fb8.jpg)
 
+
 Além das alterações mencionadas anteriormente também alterei a música do jogo, a música/som que estava a pensar colocar inicialmente era algo que levasse a mente do jogador a praia sendo este o som das ondas do mar, porém não era algo propício para um jogo de karts, por isso com algumas sugestões dadas por alguns colegas acabei por escolher uma que é bastante conhecida no mundo do jogo principalmente da **Nintendo** sendo esta a música **Koopa Beach Super Mario Kart Music**, achei que se enquadrava muito bem com o tema e com o respetivo jogo.
+Para altear a música epenas baxei a musica em mp3 e guardei esta com o mesmo nome que tinha a musica que vinha no jogo por defeito, para isto na barra de pesquisa do **Project** coloquei *_music_* selecionei o unico campo que aparecia e com o botão direiro do rato fiz *_Show in Explorer_* e arastei a música pretendida para a pasta que onde estava a anterior música.
