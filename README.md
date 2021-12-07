@@ -148,6 +148,6 @@ No jogo também foram colocadas setas de impulsão **SpeedPad** estas foram colo
 
 
 Além das alterações mencionadas anteriormente também alterei a música do jogo, a música/som que estava a pensar colocar inicialmente era algo que levasse a mente do jogador a praia sendo este o som das ondas do mar, porém não era algo propício para um jogo de karts, por isso com algumas sugestões dadas por alguns colegas acabei por escolher uma que é bastante conhecida no mundo do jogo principalmente da **Nintendo** sendo esta a música **Koopa Beach Super Mario Kart Music**, achei que se enquadrava muito bem com o tema e com o respetivo jogo.
-->>Para altear a música epenas baxei a musica em mp3 e guardei esta com o mesmo nome que tinha a musica que vinha no jogo por defeito, para isto na barra de pesquisa do **Project** coloquei *_music_* selecionei o unico campo que aparecia e com o botão direiro do rato fiz *_Show in Explorer_* e arastei a música pretendida para a pasta que onde estava a anterior música.
+->>Para altear a música epenas baxei a musica em mp3 e guardei esta com o mesmo nome que tinha a musica que vinha no jogo por defeito, para isto na barra de pesquisa do **Project** coloquei **_music_** selecionei o unico campo que aparecia e com o botão direiro do rato fiz **_Show in Explorer_** e arastei a música pretendida para a pasta que onde estava a anterior música.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/91478724/144099067-563e930e-3528-4b1d-a0eb-c801f1994420.jpg)
