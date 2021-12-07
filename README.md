@@ -127,7 +127,7 @@ As alterações que realizei foram as seguintes:
 
 ->>Para colocar rampa fui a **Assets -> Karting -> Prefabs -> Props** e nas suas propriedades alterei a cor da mesma.
 
-->>Para colocar este sobstaculos procurei no **Asset** que importei da loja e fui a: **Assets -> Snowconesolid Assets -> Super Beach Pack -> Super Beach PREFABS -> Surfboards -> Mobile_Surfboards**.
+->>Para colocar este sobstaculos procurei no **Asset** que importei da loja e fui a: **Assets -> Snowconesolid Assets -> Super Beach Pack -> Super Beach PREFABS -> Surfboards -> Mobile_Surfboards**, para esta ter uma colisão para isso coloquei uma **_Mesh Collider_** para tal fui ao **Inspector -> Add Component -> Selecionar o Mesh Collider**. 
 
 ->>Para alterar a cor do karting foi em **Assets -> Karting -> Materials -> Kart_Classic** e colocquei a seguinte cor **00B4D8** as rodas coloquei em preto para dar um destaque ao mesmo, o boneco coloquei a branco porem a um branco meio metalizado a alteração da cor do boneco fpi realizada nas suas propriedades.
 
@@ -140,14 +140,23 @@ As alterações que realizei foram as seguintes:
 
 ![2](https://user-images.githubusercontent.com/91478724/143304073-15e576d2-46a1-401a-8dab-9f5826eebb2b.jpg)
 
-De seguida realizei algumas pequenas alterações para tentar dar mais cor ao jogo visto que é um jogo de praia, para isso alterei o *_skybox_* e luminosidade do sol, a este também subi para dar assim uma luz diferente ao jogo devido ao tema do mesmo.
+De seguida realizei algumas pequenas alterações para tentar dar mais cor ao jogo visto que é um jogo de praia, para isso alterei o **_skybox_** e luminosidade do sol, a este também subi para dar assim uma luz diferente ao jogo devido ao tema do mesmo.
 No jogo também foram colocadas setas de impulsão **SpeedPad** estas foram colocadas ao longo do percurso tanto em lugares menos propícios isto para dificultar a condução do condutor,pois, por exemplo um dos lugares menos propícios é o que veremos na seguinte imagem, pois temos as setas e logo enfrente as barreiras formadas pelas pranchas de surf, porem as **SpeedPad** também foram colocadas em lugares propícios.
 ->>Para colocar estas setas impulsão foram adicionadas da seguinte maneira **Assets -> Mod Assets -> Kart -> SpeedPad.prefabs**.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/91478724/144047983-eae9da04-d8a3-47eb-a445-350ffc8d1fb8.jpg)
 
-
 Além das alterações mencionadas anteriormente também alterei a música do jogo, a música/som que estava a pensar colocar inicialmente era algo que levasse a mente do jogador a praia sendo este o som das ondas do mar, porém não era algo propício para um jogo de karts, por isso com algumas sugestões dadas por alguns colegas acabei por escolher uma que é bastante conhecida no mundo do jogo principalmente da **Nintendo** sendo esta a música **Koopa Beach Super Mario Kart Music**, achei que se enquadrava muito bem com o tema e com o respetivo jogo.
 ->>Para altear a música epenas baxei a musica em mp3 e guardei esta com o mesmo nome que tinha a musica que vinha no jogo por defeito, para isto na barra de pesquisa do **Project** coloquei **_music_** selecionei o unico campo que aparecia e com o botão direiro do rato fiz **_Show in Explorer_** e arastei a música pretendida para a pasta que onde estava a anterior música.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/91478724/144099067-563e930e-3528-4b1d-a0eb-c801f1994420.jpg)
+
+Ao entregar o projeto ao professor o projeto não foi com algumas alterações das quais foram mencionadas anteriormente como, por exemplo o **_Mesh Collider_**.
+Também existiram alguns desajustes no chapéu do boneco no qual este esteva completamente desalinhado do neto, realizei essa alteração a mexer na posição do mesmo, porém, só no cilindro do chapéu.
+Porém, tive a oportunidade de reenviar o projeto de novo e já com essa alteração, também tentei alinhar as pistas, porém esse foi um ponto que sei que ainda ficou para melhorar,
+outra melhoria que realizei nesta nova entrega coloquei vários **_Planes_** na zona das rampas isto pata o jogador ao realizar os saltos não saírem da rampa e se sair bater com estes **_Planes_** não sair da pista.
+
+->>Para isto fui a **GameObject -> 3D Object -> Plane** e depois coloquei nas posições que pretendia sendo estas na parte de baixo dos saltos e nas laterais, para este estar invisível fui a **All Mterials** selecionei **Invisible Face** e arrastei para os **Planes**.
+Na imagem a seguir no quadrado laranja conseguimos ver o **Plane**
+
+![Screenshot_3](https://user-images.githubusercontent.com/91478724/145088663-6996deab-aa44-4b05-9b2d-2927888faa47.jpg)
