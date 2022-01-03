@@ -41,8 +41,9 @@ Como prova disso, temos os jogos mais famosos criados com o Unity, como por exem
  -Rust;
  ![rust-console-edition-release-date-announced-for-ps4-and-xbox_bpme 1200](https://user-images.githubusercontent.com/91478724/147928931-4a68aec4-a3e4-421a-855d-573400fa1e7d.jpg)
 
- -Genshin Impact
- ![genshin-impact-sera-lancado-na-epic-games-store](https://user-images.githubusercontent.com/91478724/147928980-6ef883fd-a009-4612-9631-b41550461df5.jpg)
+ -Free Fire
+ ![free-fire-apk-android](https://user-images.githubusercontent.com/91478724/147929607-07cdeee7-373e-404c-a51d-988475d1e8ca.jpg)
+
 
  -Etc…
 
