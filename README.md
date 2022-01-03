@@ -28,7 +28,8 @@ Unity é um software que centraliza tudo o que é necessário para poder desenvo
 
 Para tal utiliza um editor visual e programação através de scriptings, aferecendo assim aos utilizadores ferramentas profissionais que são capazes de preencher os requesitos existentes de qualquer jogo.
 Como prova disso, temos os jogos mais famosos criados com o Unity, como por exemplo:
- -Cuphead;
+
+  -Cuphead;
  ![cuphead-800x450-3](https://user-images.githubusercontent.com/91478724/147928746-5200a04f-b80a-459b-ab53-c81813f39144.jpg)
 
  -Hollow Knight;
