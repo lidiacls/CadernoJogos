@@ -2,6 +2,53 @@
 
 Este caderno digital terá conteudos sobre jogos, UNITY, entre outras curriosidades que estejam relacionados com os mesmos, estes conteundos estão relacionado diretamente com a cadeira de "Desenvolvimento de Jogos".
 
+## O que é o Unity?
+
+O Unity é um dos maiores motores de denvolvimento de videojogos, este termo refere-se a um tipo específico de software que possui uma serie de rotinas de programação que permitem a projeção, a criação e a operação de um ambiente interativo.
+
+As funcionalidades típicas de um motor de jogo, são as seguintes:
+  
+  -Motor gráfico para renderização de gráficos 2D e 3D;
+  -Motor de física que simula as interações entre objetos;
+  -Sistema de iluminação;
+  -Animações;
+  -Sons;
+  -Programação de inteligência artificial;
+  -Programação por scripting;
+  -Simulação de partículas;
+  -Etc…
+
+## Para que serve o Unity?
+
+Unity é um software que centraliza tudo o que é necessário para poder desenvolver um videojogo, este antes era chamado como Unity 3D. Ou seja, é um aferramenta que permite criar videojogos para diversas plataformas como por exemplo:
+  -Pc;
+  -Consolas;
+  -Telemoveis;
+  -VR(Realidade Virtual) e AR(Realidade Aumentada)
+
+Para tal utiliza um editor visual e programação através de scriptings, aferecendo assim aos utilizadores ferramentas profissionais que são capazes de preencher os requesitos existentes de qualquer jogo.
+Como prova disso, temos os jogos mais famosos criados com o Unity, como por exemplo:
+ -Cuphead;
+ ![cuphead-800x450-3](https://user-images.githubusercontent.com/91478724/147928746-5200a04f-b80a-459b-ab53-c81813f39144.jpg)
+
+ -Hollow Knight;
+ ![ss_0dc961ae42fbab736ee2afb84cc070714fcd2630 1920x1080-1024](https://user-images.githubusercontent.com/91478724/147928868-920cb432-b2f1-42b4-9f49-2a9138ef0eec.jpg)
+
+ -HearthStone;
+ ![FWZA699TDZJ11630358148418](https://user-images.githubusercontent.com/91478724/147928902-055283da-4afa-4eed-8237-be94428abb34.png)
+
+ -Rust;
+ ![rust-console-edition-release-date-announced-for-ps4-and-xbox_bpme 1200](https://user-images.githubusercontent.com/91478724/147928931-4a68aec4-a3e4-421a-855d-573400fa1e7d.jpg)
+
+ -Genshin Impact
+ ![genshin-impact-sera-lancado-na-epic-games-store](https://user-images.githubusercontent.com/91478724/147928980-6ef883fd-a009-4612-9631-b41550461df5.jpg)
+
+ -Etc…
+
+Além disso, é amplamente utilizado nos estúdios focados no desenvolvimento de videojogos para dispositivos móveis.
+Um dos grandes pontos fortes deste software é a grande comunidade de utilizadores. Isso permite o acesso a uma infinidade de documentação e fóruns onde as respostas às suas dúvidas não tardam em aparecer, e onde diferentes métodos e novas técnicas são explicados.
+Como consequência, é um dos motores mais utilizados para aprender a desenvolver videojogos, pois é simples de começar a utilizar, e existem vaior cursos na internet no qualque qualquer pessoa pode por iniciativa propria aprender a trabalhar com este motor de desenvolvimento, Unity.
+
 
 ## Quais são os exemplos possiveis para?
 
