@@ -216,8 +216,8 @@ Neste ultimo exerício nós os alunos em pares deverimos de criar um jogo que po
   - o Karting;
   - FPSs;
   - John Lemon;
-  -2D Platforms Micrograme;
-  -etc;
+  - 2D Platforms Micrograme;
+  - etc;
   
 Porem deveriamos customizar-los através da modificação e introdução de novos assets sendo estes 2D, 3D, entre outros, obviamente criados por os membros do grupo.
 A parte de desenvolver o jogo propriamente dito é fi necessário produzir um Game Design Document sobre o vosso jogo, sendo este um documento que contem todas as informações relevantes do design de um jogo: temática, mecânicas, plataformas, inimigos, levels, entre outros...
