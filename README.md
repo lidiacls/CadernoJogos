@@ -209,3 +209,16 @@ outra melhoria que realizei nesta nova entrega coloquei vários **_Planes_** na 
 Na imagem a seguir no quadrado laranja conseguimos ver o **Plane**
 
 ![Screenshot_3](https://user-images.githubusercontent.com/91478724/145088663-6996deab-aa44-4b05-9b2d-2927888faa47.jpg)
+
+## Ultimo trabalho de Desenvolvimento de Jogos
+
+Neste ultimo exerício nós os alunos em pares deverimos de criar um jogo que podia ter como base um GameKit à nossa escolha como or exemplo:
+  - o Karting;
+  - FPSs;
+  - John Lemon;
+  -2D Platforms Micrograme;
+  -etc;
+Porem deveriamos customizar-los através da modificação e introdução de novos assets sendo estes 2D, 3D, entre outros, obviamente criados por os membros do grupo.
+A parte de desenvolver o jogo propriamente dito é fi necessário produzir um Game Design Document sobre o vosso jogo, sendo este um documento que contem todas as informações relevantes do design de um jogo: temática, mecânicas, plataformas, inimigos, levels, entre outros...
+Foi pedido que desenvolvessemos uma narrativa, mesmo que fosse muito simples, para o jogo.
+
