@@ -228,9 +228,12 @@ Para dar uma melhor aparencia ao jogo para parecer um jodo de verdade e dentro d
 ![5](https://user-images.githubusercontent.com/91478724/150341763-0d0692a2-17ce-457b-9541-6ac114a5e666.jpg)
 
 Decidimos baixar **_assets_**, para isso utilizamos os seguintes sites:
-  ->https://quaternius.com/ e baixamos o seguinte _asset_ : FREE PLATFORMER PACK este foi utilizado para as dar uma melhor parencia a ilha, as caixas que caiam, e colocamos uns pequenos objetos como arvores, relva, pedras e cogumelos por sobre a nossa ilha.
-  -> https://assetstore.unity.com/ este é a propria loja de **_assets_** do unity e utilizador o FREE Skybox Extended Shader para altear a cor do céu.
-Na seguinte imagem podemos verificar o resultado final do jogo.
+
+  ->> https://quaternius.com/ e baixamos o seguinte _asset_ : FREE PLATFORMER PACK este foi utilizado para as dar uma melhor parencia a ilha, as caixas que caiam, e colocamos uns pequenos objetos como arvores, relva, pedras e cogumelos por sobre a nossa ilha.
+  
+  ->> https://assetstore.unity.com/ este é a propria loja de **_assets_** do unity e utilizador o FREE Skybox Extended Shader para altear a cor do céu.
+  
+  Na seguinte imagem podemos verificar o resultado final do jogo.
 
 ![B](https://user-images.githubusercontent.com/91478724/150343035-fdb51a12-6456-4c38-9096-008ca4fa6797.jpg)
 
