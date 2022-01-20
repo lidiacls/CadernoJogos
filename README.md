@@ -223,6 +223,7 @@ Porem deveriamos customizar-los através da modificação e introdução de novo
 A parte de desenvolver o jogo propriamente dito foi necessário produzir um **Game Design Document** sobre o jogo, sendo este um documento que contem todas as informações relevantes do **_design_** de um jogo: **temática, mecânicas, plataformas, inimigos, _levels_, entre outros...**
 Foi pedido que desenvolvessemos uma narrativa, mesmo que fosse muito simples, para o jogo.
 Este jogo não contem uma narrativa propriamente dito, pois este jogo acontece numa era e num tempo que são desconhecidos, podemos considerar uma era onde a lei da gravidade ainda não estava a 100% estudada e explicada de como acontecia, devido a forma como as caixas caem ao longo do jogo pois estas vão aumentado a velocidade que caem.
+
 Para dar uma melhor aparencia ao jogo para parecer um jodo de verdade e dentro da atualidade, e não ficarmos apenas pelo _dsign_ basico sendo este a seguinte imagem 
 
 ![5](https://user-images.githubusercontent.com/91478724/150341763-0d0692a2-17ce-457b-9541-6ac114a5e666.jpg)
