@@ -212,14 +212,25 @@ Na imagem a seguir no quadrado laranja conseguimos ver o **Plane**
 
 ## Ultimo trabalho de Desenvolvimento de Jogos
 
-Neste ultimo exerício nós os alunos em pares deverimos de criar um jogo que podia ter como base um GameKit à nossa escolha como or exemplo:
+Neste ultimo exerício nós os alunos em pares deverimos de criar um jogo que podia ter como base um **GameKit** à nossa escolha como or exemplo:
   - o Karting;
   - FPSs;
   - John Lemon;
   - 2D Platforms Micrograme;
   - etc;
   
-Porem deveriamos customizar-los através da modificação e introdução de novos assets sendo estes 2D, 3D, entre outros, obviamente criados por os membros do grupo.
-A parte de desenvolver o jogo propriamente dito é fi necessário produzir um Game Design Document sobre o vosso jogo, sendo este um documento que contem todas as informações relevantes do design de um jogo: temática, mecânicas, plataformas, inimigos, levels, entre outros...
+Porem deveriamos customizar-los através da modificação e introdução de novos **_assets_** sendo estes **2D, 3D, entre outros**, criados por os membros do grupo, pois este trabalho foi desenvolvimento em grupos de dois, o meu colega de trabalho o Filipe Cerqueira.
+A parte de desenvolver o jogo propriamente dito foi necessário produzir um **Game Design Document** sobre o jogo, sendo este um documento que contem todas as informações relevantes do **_design_** de um jogo: **temática, mecânicas, plataformas, inimigos, _levels_, entre outros...**
 Foi pedido que desenvolvessemos uma narrativa, mesmo que fosse muito simples, para o jogo.
+Este jogo não contem uma narrativa propriamente dito, pois este jogo acontece numa era e num tempo que são desconhecidos, podemos considerar uma era onde a lei da gravidade ainda não estava a 100% estudada e explicada de como acontecia, devido a forma como as caixas caem ao longo do jogo pois estas vão aumentado a velocidade que caem.
+Para dar uma melhor aparencia ao jogo para parecer um jodo de verdade e dentro da atualidade, e não ficarmos apenas pelo _dsign_ basico sendo este a seguinte imagem 
+
+![5](https://user-images.githubusercontent.com/91478724/150341763-0d0692a2-17ce-457b-9541-6ac114a5e666.jpg)
+
+Decidimos baixar **_assets_**, para isso utilizamos os seguintes sites:
+  ->https://quaternius.com/ e baixamos o seguinte _asset_ : FREE PLATFORMER PACK este foi utilizado para as dar uma melhor parencia a ilha, as caixas que caiam, e colocamos uns pequenos objetos como arvores, relva, pedras e cogumelos por sobre a nossa ilha.
+  -> https://assetstore.unity.com/ este é a propria loja de **_assets_** do unity e utilizador o FREE Skybox Extended Shader para altear a cor do céu.
+Na seguinte imagem podemos verificar o resultado final do jogo.
+
+![B](https://user-images.githubusercontent.com/91478724/150343035-fdb51a12-6456-4c38-9096-008ca4fa6797.jpg)
 
